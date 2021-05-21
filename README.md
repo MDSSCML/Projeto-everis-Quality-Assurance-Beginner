@@ -4,4 +4,3 @@
 
 **eu usei aqui hibernate mais para criar as colunas e o banco, usei mysql em conjunto com o xamp, usei servlet para fazer a persistência dos dados , usei também um pouquinho de bootstrap e usei tabelas para apresentar os dados cadastrados, ficar mais bonitinhos.**
 
-[Código](https://github.com/MDSSCML/Projeto-everis-Quality-Assurance-Beginner/tree/master)
